@@ -4,4 +4,5 @@
   <img align="top" alt="jakob-kruse's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakob-kruse&theme=prussian" />
   <img align="top" alt="jakob-kruse's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakob-kruse&count_private=0&theme=prussian" />
 </div>
+
 ![](https://hit.yhype.me/github/profile?user_id=16742703)
