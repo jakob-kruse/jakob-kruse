@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clauderic/dnd-kit</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React.</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PowerToys</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows system utilities to maximize productivity</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 18:09:20 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 19:09:11 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
