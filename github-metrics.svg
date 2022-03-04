@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lewish/asciiflow</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ASCIIFlow</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trivago/prettier-plugin-sort-imports</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2022, 04:05:40 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 4 Mar 2022, 05:03:47 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
