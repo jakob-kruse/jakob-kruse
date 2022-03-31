@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/react</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A declarative, efficient, and flexible JavaScript library for building user interfaces.</div>
@@ -663,7 +663,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2022, 22:03:30 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 31 Mar 2022, 23:03:34 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
