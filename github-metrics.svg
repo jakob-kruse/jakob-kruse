@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeffijoe/awilix</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extremely powerful Inversion of Control (IoC) container for Node.JS</div>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/react</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A declarative, efficient, and flexible JavaScript library for building user interfaces.</div>
@@ -663,7 +663,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2022, 20:03:37 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 1 Apr 2022, 21:03:08 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
