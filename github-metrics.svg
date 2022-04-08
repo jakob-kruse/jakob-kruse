@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/nitro</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚗️ Build and deploy universal JavaScript servers</div>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carbon-design-system/carbon-components-svelte</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Svelte implementation of the Carbon Design System</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2022, 19:11:20 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 20:08:25 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
