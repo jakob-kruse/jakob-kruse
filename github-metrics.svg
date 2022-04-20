@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firebase/firebase-js-sdk</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firebase Javascript SDK</div>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yt-dlp/yt-dlp</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A youtube-dl fork with additional features and fixes</div>
@@ -672,7 +672,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2022, 06:18:44 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 07:15:59 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
