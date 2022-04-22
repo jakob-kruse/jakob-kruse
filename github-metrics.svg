@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/unstorage</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌍 💾 Universal Storage Layer</div>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/got</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐 Human-friendly and powerful HTTP request library for Node.js</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2022, 19:08:51 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 20:03:31 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
