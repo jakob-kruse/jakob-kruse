@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mastodon/mastodon</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your self-hosted, globally interconnected microblogging community</div>
@@ -680,7 +680,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 21:03:52 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 22:03:32 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
