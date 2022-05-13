@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LSPosed/LSPosed</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LSPosed Framework</div>
@@ -680,7 +680,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2022, 21:03:23 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 22:03:30 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
