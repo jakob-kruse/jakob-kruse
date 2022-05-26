@@ -308,7 +308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alosaur/alosaur</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alosaur - Deno web framework with many decorators</div>
@@ -648,7 +648,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2022, 00:04:58 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 May 2022, 01:03:42 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
