@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dragonflydb/dragonfly</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern replacement for Redis and Memcached</div>
@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>egoist/tsup</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The simplest and fastest way to bundle your TypeScript libraries.</div>
@@ -408,7 +408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>growthbook/growthbook</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Feature Flagging and A/B Testing Platform</div>
@@ -664,7 +664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2022, 19:05:17 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 Jun 2022, 20:05:23 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
