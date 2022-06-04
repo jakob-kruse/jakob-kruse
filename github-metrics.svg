@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tc39/proposal-change-array-by-copy</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provides additional methods on Array.prototype and TypedArray.prototype to enable changes on the array by returning a new copy of it with the change.</div>
@@ -657,7 +657,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2022, 12:03:45 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 13:03:25 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
