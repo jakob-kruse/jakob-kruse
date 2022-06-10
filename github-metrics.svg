@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1325" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1358" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            200 Commits
+                            201 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    95.1k added, 29.3k removed
+                                    87.3k added, 28.4k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.34903121485604" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="312.34903121485604" y="0" width="65.8836003110855" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="378.2326315259415" y="0" width="43.57323098098238" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="421.8058625069239" y="0" width="14.737171919498234" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="436.54303442642214" y="0" width="9.829070827901461" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.37210525432357" y="0" width="5.346921876136497" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="451.71902713046006" y="0" width="4.155285376184056" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.8743125066441" y="0" width="4.125687493355862" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.10390073589855" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="312.10390073589855" y="0" width="65.62236507365952" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="377.7262658095581" y="0" width="44.23104037271408" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="421.9573061822721" y="0" width="14.678737520236513" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="436.63604370250863" y="0" width="9.79009755322795" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="446.4261412557366" y="0" width="5.325720782097687" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="451.7518620378343" y="0" width="4.138809243175315" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.8906712810096" y="0" width="4.109328718990418" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakob-kruse/dotfiles</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">my dotfiles</div>
@@ -586,6 +586,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">jakob-kruse/bid-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#df6ab63</div>
+                                        <div class="message">Fix app.html and add today endpoint</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">jakob-kruse/dotfiles</span>
                                     </div>
                                 </div>
@@ -651,25 +671,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">s3ql/s3ql</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 22:03:52 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 23:03:41 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
