@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dunst-project/dunst</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight and customizable notification daemon</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2022, 19:07:16 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Jun 2022, 20:03:56 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
