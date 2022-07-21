@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icflorescu/trpc-sveltekit</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">End-to-end typesafe APIs with tRPC.io in SvelteKit applications.</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 17:03:48 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 18:03:42 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
