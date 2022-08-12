@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>halo/LinkLiar</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LGUG2Z/helix-vim</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Vim-like configuration for Helix</div>
@@ -672,7 +672,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 12:04:05 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 13:03:37 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
