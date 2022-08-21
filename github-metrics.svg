@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omar-dulaimi/prisma-trpc-generator</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prisma 2+ generator to emit fully implemented tRPC routers</div>
@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omar-dulaimi/prisma-zod-generator</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prisma 2+ generator to emit Zod schemas from your Prisma schema</div>
@@ -408,7 +408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Canop/bacon</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">background rust code check</div>
@@ -461,7 +461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itamaesanorg/SushiJS</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SushiJS is a Typescript, NextJS, TailwindCSS and Motion Framer project to help developers build great tools! npm i @itamaesanorg/sushijs</div>
@@ -661,7 +661,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2022, 15:09:57 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 16:03:29 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
