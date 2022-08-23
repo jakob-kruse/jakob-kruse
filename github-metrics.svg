@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1375" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1342" class="">
     <defs>
         <style/>
     </defs>
@@ -464,7 +464,7 @@
                                         <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">SushiJS, is a Typescript, NextJS, TailwindCSS with Framer Framework based on Agile, new revolutionary and evolved folder modular structure, developed in a week (1 week exactly) by the Harvard University student of Project Management, Miguel Gargallo, @miguelgargallo. ITAMAESAN ORG is an Open Source Code Foundation, leading in the development industry based on Agile and Project Management Methodologies applied to developments.</div>
+                                <div class="field description">SushiJS, is a Typescript, NextJS, TailwindCSS with Framer Framework based on Agile. Intriduces NRNx2, an evolution of Next Right Now and Agile subsystem folder structure and development methodology. developed in a week (1 week exactly) by the Harvard University student of Project Management, Miguel Gargallo, @miguelgargallo.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 19:06:46 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 20:03:42 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
