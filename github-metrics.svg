@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakob-kruse/tssv</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Twitter Stream Service</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PLhery/node-twitter-api-v2</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.</div>
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Brain-Bones/skeleton</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fully featured Svelte component library. Skeleton allows you to build fast and reactive web UI using Svelte + Tailwind.</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2022, 04:56:49 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 05:54:55 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
