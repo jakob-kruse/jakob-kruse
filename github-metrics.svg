@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orta/vscode-twoslash-queries</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VS Code extension which adds support for twoslash queries into typescript projects</div>
@@ -685,7 +685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2022, 06:37:18 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 07:31:32 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
