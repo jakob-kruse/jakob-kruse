@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kentcdodds/cross-env</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔀 Cross platform setting of environment scripts</div>
@@ -455,7 +455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orta/vscode-twoslash-queries</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VS Code extension which adds support for twoslash queries into typescript projects</div>
@@ -665,7 +665,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2022, 21:03:16 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 22:03:39 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
