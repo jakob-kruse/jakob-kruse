@@ -38,8 +38,8 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -240,7 +240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wesbos/syntax-supercut-studio</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Local SvelteKit app for rendering transcript supercuts</div>
@@ -255,7 +255,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        92
+                                        95
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yusukebe/kakera</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A file-based routing framework with Cloudflare Dynamic Workers</div>
@@ -334,7 +334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kiwa-ui/kiwa-ui</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -388,7 +388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vlang/v</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io</div>
@@ -497,7 +497,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgDBgIEBf/EACoQAAICAQIDBwUBAAAAAAAAAAEDAgQRAAUGElEHEyExQXGBFCIyYaEj/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMRBCESE0H/2gAMAwEAAhEDEQA/AGasSVUqtsPPKpUSyZ6ADJ0EU3rnaHu1+ffso7ZWJUsKAEwPfrkHPtokdrW+VNk4F3WdzBNhEq64c2DKUgR/PPQe4HZQ2czlO1ODWqiwSHkedYJ+Qc6mvs8epXxKfYZJDie3wju9vZLEobipeAoOGCMjPj1GM/OuLuHaXxC+x3m3bO76YgcoFYTMf0Tjz1vurhfa3w2uvZbZc16WNYTkyX3g8/78aZcV1RGIrgB7a2liwiuVWEfBE933idvESfp943CVmCz98pEnw9evh1GfbpqOhdv7Yo06DluWGTXzSYf8yM5h+z641Q+E7bWXYxaQwL5+QTGeXETIY+dWUoXb2tzpAqshrIF6pGLJCMvASPr6efQacyB+jDRCA11ZwD5MuzziDdaPaI68BK3ertK4RnHIEB4YwPLIJGnUoWjao17ElyXJq4zMDL8cjONKRwtuL3PVYaITcYRzIx/L7jHx+NMxwTffd4X259gxk2aY5OP0NGECDBJWsLnTP//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFBP/EAC8QAAEDAgQEBAUFAAAAAAAAAAECAwQFEQAGEiETMUGBBxRRcRUiI2GRMmJyssH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAxESMQQTMv/aAAwDAQACEQMRAD8AQAy15ajqRxbP/TUA8q1+IQdr+mBPxN8QKrFr4ptHkuwY8S4cIFi65fc8uX2xRw5NYhTXBKmVtDEZTixqkHhqIOwRYWVf7HGQuJSswPOSMwJdXJKgsvDcW6Cw3N/8HpgXtpYLsucRVVFis2G7E/JNWTXsiMPyjGLklIuvktTg2XtytsPzjvZiJ4SdQsbq6/uODqJkOSmjtsQY6HXS4VtpcfXw9J9Pm798bGW6Nmal04xHY0BaEOKLQZf2Qk7297k/nGfZCoVF5CWhlYs7dnfmKpJrFcbgtmS1CisguSS1ZC1L5/ORbYD3374gqDTWWa5JZemIlNIPGilkEFDazdNyR2t0ti6iufGpdYjzm21MtLDSUpTawKQo974hPEKajLTbHwyHFSnR+mykjn10qF+Z53xGf1nOgEtU+IabkxCcajTaV5CUR5Mi3DJtt787YxalkRp1bJgyWYbAbAS0GNfU73vgYaz7WXFDh+UZ/gwFf2vhiyxXJ87L1PkyXtTq2hqOkb7kYUwtU/qNYVL1cz//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwgEBQb/xAAuEAABAwIEAgkFAQAAAAAAAAABAgMEAAUGERIhBzETFCJBQlFSYbEIcYGRoaL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQSITFB/9oADAMBAAIRAxEAPwB9xDfWrNbJM58EtsNlZCeZ9qmvEmNMZXS5mTruceMVa22mAsISO7YfNO+Mmet2Wex62VfFHUK7PMsuJ6kvp0bJb1bK/OVYi+Tdx6RZuzsODGMp9/YkQLyS5LYSFpcUMlkcjn+xv70o50PcOGZBxeuc40GdcNaHEc/GMqWUu7VS+RAuXo2Q+xziK22OCt25SG2miCjfmv2A76H4+JGZw65EkNtxkepO+1a76jZTzmLokVSs2GomtCfJRWcz/kUZW2/XK1NpRAkBpLnb3aQvSrzGoHKkakMnb7LovNbED1KAh8SbXhZSH7ozJBmZdG22AVhIz7ZBIyGZ/lJNo4gYXucBuVHvlvShfheeS2tJ8ilW4qH58uROnB6a84+64e0tw5k1lMKPRjfL7UiUADINj93Jn//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAADPUlEQVR4nO2T70tTYRTH7/wrjOhdUCDUC/GFiQpmiI1MzCXkFGs23abz1+o6lzpdKm5MFJ1p1uqyUlG7Rs6QUttcmYis/bh3CwN/tN25XfBFLKXa7p6wq3ZzWq5XvehwuDw8PPdzzvmec6BLeSVZXFF8QnLQ5wQeHBAY8DrBmmPrQGBbN5E7lMUVJZ7LjI2NhasqaqphWY1UCt+EK8VwhfB+e/P6+7m/QEPpWfkwDAeDQQBAKBTa/VIUZbfba2/J1I3SiKGnYhO8Xi842Fqam334m8igqWns3xABAAiC2Ixj+/xMYBvL72b1/S+HtNiM/suqdbslHhzKL7jGRBAEsbCwQKtBW0dHh8tiDIeap1CRoBhF0YmJCQRBbslqJGXC9iaZ22KA+EXFtIi0DQ0NsVis6OhoNpuN4zgAQCgoRhHN+OPed5PoxrI5tJOOWFAYCAT2lLWysqJsbYVycnKYt36/PykpCYKguLg4v9+/ubmZyU5T1UkUsPhqbvbpmJOpyWf6e9vc1hmlsvUgxaBy4XVmpnT3SZKkFejs7ORmZ9TfKNF2NH912cCaw2Z4dj0v59jRI0aj8UDoi2GtWCTQ6XRWq9Xn8238MJIkrVZrX1+ftFxAreHA63CZX82/GNmdWVUD/HF1Va/XczgcnU63tLREUdRPKCCwgNtumX76uEetboDrJSV1lUJlrQTRqMyT6KcP88x2757VcpgkSZPJxGKxIAiKiopyOBwMqGf73caSOeiybW/nn7boXnvT4uIi3diCgoLBwcFfygc777pa6u4o5XtxBBbaLwBmHFMoFMwN3B/6qFvF5Vy0TD91vH4+Nz4wou3saqmtFvPF/HzTWH849+WwVlhUaDAY9mkU2HlEue3dSvkVTgYn8zwv77KsorhbKR9FNBMDfSmJ8Y3VZeFFBNz2/l51qZCPoihzZqHwYmlnIr65bLxcTimPG3Tbw5eVIrCpJw8rS/i3FQqn0xkGPdhDBCYtK8pIP7vufLsdj8C2JpcRm3TM9qgaqsSCw0JpH7jbFnPiuETE0yjreVzOhbSU8MSBB48MCgjs87J59GGXprV+cuRBIFwNDx459HAO/YeC/5p6/vmR+g5pPbpaZ9venwAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEhUlEQVR4nLXVW0xadxwHcF/arMlelvUSl6Zrp7WtN8RZUKiKXBTOEfHIVdFysUwU4QiooKJ47cVUsbiYzTFHnG5eVoRZdQ9bdJWYLagzWfVhJi6Zm9sU4wwIcYacJSMxThFrk518H05y8vvk//+e/M8JQf6HKyT4Y5/P53A4jEZjuVoNy+U1NTX9/f3r6+uviPp8PpPJRErCQBiUik5s5IINXKAKSs9PuZ10M0wmlW5ubp4OdblcPFaOhIzrEOYYxaxDeZTPKKGmEBIxfnd8fPyl0Ls8rp5NO8rtp0OYI6XckRVLEQTBoONcLtcJ6PDwsISMCyL608gFMJE35ubmshJiFhYWTkAzAVo9m8ZOQneImEHQOjYNh4qW5vNySXfcbvexqM/n09fqICyq7S6UEhmOjbimZ9MC0vfz6PnJt8+dPVNaJFlaWgrWqb62Vgmm/VsZE3v96k/WLi4ZR4yOUGamNXCAllx6Sy69ngPAIIEQFS5hkD5X5z1oaT6615D9u+XlZQYGtb8QNjERmbci89aFgY46CSeXggewKBomlkNM0gpz5j9rR+atf9o6S8Bkp9N5LNra2trEBY1i1hMRk5+c0NtU5keDxDdrGdWJuru7j0XLFAq/qMkmZ2Bi9xxPXwb9zlhZrpAdi2o1mnYBVMui4qMjfn724X/m50YGH6greWAlD+yulvpmLci81dygEJFxRRQ8IS5qZWUlMDo0NAQDBCWY1qmR+McOogaVCIYoKjb141oZMjfi7/qJWqwvyBTmco5dqdvtpmLREBal4IGiLJIoi2Rp07rsA4f0nZnBnZlBZN669LRzsrv5fRknnUy02+0B0K6uLrfbbTablXy6Eeb36WUx71x+4/Vzr509Q8PHK/lZatl7sqJ7t27eEAgElLRUVMRVrVar0+nQaPT09DQMwwHQarVSSE27x89tKs5rE4G7M4O/jnf/ZjH0aQQ8fGxcdCSCIB6Ph8vlOhwOtUpVTMWurq56vd6xsTEEQVQqVQB0bW2tuU535eJ5Qtwtg1r0UF4w9KjCv+U/rEYRQNgf2N7eLshKr+MQzWbz6OioyWTSaDQ9PT2BO52amhITEyUk3FvXQyPjw34Z/2i/R2uLophLL82DSlg0JYvyTSv8wlQ33CT/tKoQhuFDBx85iNpsNjktVcfMEKZhY9Bhb4de+P6T+/4XHThzIxZ9kdlsPiQiB9HNzU3quzE6Zob/CFRBlCuXzuuFjK2vew5xL4aNf33b/2NPI5RO8Hg8wVAEQQyG9tSocD2HpmNlZGNjJYViu90ecfkSDBHHH5f//uwD73S/53nfV20V9QWZxWLBxsbGURE5+j0dGBjIzgTIybgyhcLpdBZxOYUxUV+2Vz0s4YtBAjr04rULb9ZUVy0uLgbkTv6bVpSWLuRAO0JBRUJ8Z6Vk8YvOx1jMIpMpBgCv1/sqaG9vr4VM2isU+zObzZBHR81mM/YKxT9A2R0Gw6nRra0tJRa7Lx6NDI/f3d09HWqz2Z7TM4OgkyDQ19d3OnRiYmISBIKgf4tFUhrtOPQfMqSlSoe2mrcAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QAKBAAAgIBAgUDBQEAAAAAAAAAAQMCBAUAEQYSEyExB0FRFEJxgZEW/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAMCBBESQf/aAAwDAQACEQMRAD8AjuLH4G7erRw6jWqLierKMe51ZY30+y8UqONs00rcNmBiySPjf50c0V18pXWel9MsOAYwduxO2mSmLDLtxIzNgdVZ6UYjbkII7Q299t9JbNiIDHtKszFSGnqFw9/nwyvNCV2Ics5SUNhME+R/D20bXCHvk2UpRMvYfzTh6o1Bds8NVKtltu/flGtKTPPKJ+SPyToqy+InSy12krmaKrpJM+XyQdb1XHg6xW/XSx4Sly6k4yI5LdVRlE7rEucn9DV7wjlYtTQsOpzslixANAHcjsRPt876DbTZTJlPaRkO++t/gHjDLYS/kqqGrdXgqboQfDcRlt5G22i26TLDv2Xp3OOfPkZM8yvj+OcZaClMuJQOnGUthGZLOw/WsG/g3OyFqxKoyM7DS2Y2+4+dE6OJsnxFlLbsm6MzsOWMY7CP49/uPvqlp8V5qqgJReZFcfA86mOgeRGDZsLYz//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQMCBAURACExBhJBBxMiYTIUQlFxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAwX/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDIQQRBRITIlH/2gAMAwEAAhEDEQA/AENQVipKiqeD2/iRrcplSqKWbFtGY/tIO4/vQhb0zq6xaKePe1khCAHknYafnRPp3G72emqHvqqZRVItKlDEiCcDJPOAPHnnVedyUjAADpdSJ7pKSjukGW/E8QM5jPdDcaxC2b5SYZHJOjL1Os77Lc6e3sm6eEBmGrAIySPHPGhGlYuKsSxnOqsHIlnZtxpFz3A9d0o7VTu94STnvByCPGunPS69XK59JLTXUzGGid7HuqAn7vByRLzvjIP+HSFtNMs26TfkJwPxIPGiCwdUXe1UdTC31jEQeDBkY8H7+j9jfWeTxzZYd7tPGHS/qtdeMrOqOoqysg1YrxKaP0TIkTwvO0DxI7E+CTsBxpem2yE5iUwqYkRKExgg6YnSFlp7+b2yvm3NDSTcoQIA7v5OQc6BHRBe3JP5HVfhGM0MFoyN0fa1/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBf/EACkQAAIBAwIGAgEFAAAAAAAAAAEDAgQFEQAGBxITITFBIlEyFBVScYH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8A0buyprKO1xbb3oQ6VQlZm+JlECbIx8f7qIq7pxKr7g6FjptsLoxIlTKpjRN3J8Z4Az25vf0Rg6rd2SqOmIpQts5U7+gGiJgX8o5IEE9yR1B9aNdg3bcbzdaxn6VSmRKaHJyWqzlJXk4BILCRj67D3FtB0qfbl83hVGjF/Fkpnyq4wkmkgyXUUYmWYTMiD8QZZ8dseQcJOgzhQLiutZ+8UdEm79ZMoRTGWDGU2xnjIzgLAP0CB/QcR2Gg00eXkcb1sNzlcaqup6ylcl8lGNPURyUmI5RKAOQcEmZz6yMdyST8SuIdy2RWCz7bvSpu5g2cF0q5LRnOVgTkTHB5SIfR9eNaF3NTLkkPOeoPj57Y1AXDaVhr0AVlsp3SWIzDJxzMnv3M/wAj+R8n3o28Nx+GW5qHdRddYXGsN6p2qPSqSFrYIiY7iAPpjew7DmicZ04KZFsBNcoygfBB0Y22zW2hUqlpKJCkBgYIiOeWX8hn3pEtdKtFFCK+YA/I5PvQpq//2Q==" width="28" height="28" alt="" />
@@ -535,7 +535,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2026, 02:21:38 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2026, 02:20:08 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
